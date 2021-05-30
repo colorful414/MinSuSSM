@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/controller/home/HomeAccountController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/controller/home/HomeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/AccountDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/BookOrderDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/RoomTypeDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/AuthorityDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/CheckinDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/FloorDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/LogDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/MenuDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/RoleDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/RoomDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/dao/admin/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/Account.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/BookOrder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/RoomType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Authority.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Checkin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Floor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Log.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Menu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Role.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/Room.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/entity/admin/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/interceptor/admin/LoginInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/interceptor/home/LoginInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/page/admin/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/AccountService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/BookOrderService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/RoomTypeService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/AuthorityService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/CheckinService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/FloorService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/LogService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/MenuService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/RoleService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/RoomService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/impl/CheckinServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/impl/FloorServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/impl/MenuServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/impl/RoleServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/service/admin/impl/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/util/CpachaUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java/util/MenuUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
